@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactzoom/static/css/main.c7e2cbd1.css",
+    "main.js": "/reactzoom/static/js/main.cd6aa12b.js",
+    "static/js/787.babcaafc.chunk.js": "/reactzoom/static/js/787.babcaafc.chunk.js",
+    "static/media/logo.svg": "/reactzoom/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactzoom/index.html",
+    "main.c7e2cbd1.css.map": "/reactzoom/static/css/main.c7e2cbd1.css.map",
+    "main.cd6aa12b.js.map": "/reactzoom/static/js/main.cd6aa12b.js.map",
+    "787.babcaafc.chunk.js.map": "/reactzoom/static/js/787.babcaafc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7e2cbd1.css",
+    "static/js/main.cd6aa12b.js"
+  ]
+}
